@@ -6,8 +6,6 @@ As a software engineer, I wanted to expand my skills in cross-platform mobile de
 
 The purpose of creating this app was to gain hands-on experience with Flutter's widget system, implement persistent local storage using shared_preferences, and understand how to build applications that maintain data integrity across app restarts. This project also helped me practice JSON serialization, form validation, and creating responsive layouts that adapt to different screen sizes and platforms.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 **Development Tools:**
